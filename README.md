@@ -151,7 +151,7 @@ This is not the case in Java. You must define a method called `Main` in a class
 and tell Java to run the file containing that class.
 
 ```java
-public static void Main(String[] args)
+public static void Main(String[] args);
 ```
 
 This is the Main method, the entry point of your program. You have installed Java,
